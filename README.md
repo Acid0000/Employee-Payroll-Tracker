@@ -4,5 +4,5 @@
 ## Screenshot
 ![alt text](https://github.com/Acid0000/Employee-Payroll-Tracker/blob/main/Assets/Finished.png?raw=true)
 ## Hosted link
-https://acid0000.github.io/02-Challenge-Code-Refactor/
+https://acid0000.github.io/Employee-Payroll-Tracker/
 
